@@ -1,1 +1,59 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="M. Favorito" tvg-id="M. Favorito", Favorito
+http://192.168.1.47:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
+http://192.168.1.47:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
+http://192.168.1.47:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 1080P
+http://192.168.1.47:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 1080 MultiAudio
+http://192.168.1.47:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 720
+http://192.168.1.47:6878/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 3 HD", M. LaLiga 3 1080
+http://192.168.1.47:6878/ace/manifest.m3u8?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dGWY2Fp/liga4.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 4", M. LaLiga 4
+http://192.168.1.47:6878/ace/manifest.m3u8?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1 1080 Multiaudio
+http://192.168.1.47:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1 1080 by Tronoss
+http://192.168.1.47:6878/ace/manifest.m3u8?id=dad36d37fa74b94e345bb014d82d820e54fb69d8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 1080 Multiaudio
+http://192.168.1.47:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="M Deportes" tvg-id="M+ Deportes 3", M. Deportes 3 1080 by Tronoss
+http://192.168.1.47:6878/ace/manifest.m3u8?id=fb27c753c690bf21edcf527f42cd14c5c9e6b53e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxTVvN1/Deportes7.png" group-title="M Deportes" tvg-id="M+ Deportes 7", M. Deportes 7 1080
+http://192.168.1.47:6878/ace/manifest.m3u8?id=070f82d6443a52962d6a2ed9954c979b29404932
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 by Tronoss
+http://192.168.1.47:6878/ace/manifest.m3u8?id=03de691c3fea9ea7b6abefdc88a86f3a47b455f4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 by Tronoss
+http://192.168.1.47:6878/ace/manifest.m3u8?id=e253307f495a6beeda976d2363d72501f2dc1fe3
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar1.png" group-title="Alemania" tvg-id="DE: DAZN 1", DAZN 1 DE
+http://192.168.1.47:6878/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar2.png" group-title="Alemania" tvg-id="DE: DAZN 2", DAZN 2 DE
+http://192.168.1.47:6878/ace/manifest.m3u8?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="España" tvg-id="M+ LaLiga TV HD", M. LaLiga
+http://192.168.1.47:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="España" tvg-id="M+ Deportes HD", M. Deportes
+http://192.168.1.47:6878/ace/manifest.m3u8?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bSvSX3/golf.png" group-title="España" tvg-id="M+ Golf HD", M. Golf
+http://192.168.1.47:6878/ace/manifest.m3u8?id=872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="España" tvg-id="DAZN 1 HD", DAZN 1
+http://192.168.1.47:6878/ace/manifest.m3u8?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" group-title="España" tvg-id="DAZN 2 HD", DAZN 2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" group-title="España" tvg-id="DAZN 4 HD", DAZN 4
+http://192.168.1.47:6878/ace/manifest.m3u8?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RBPb12F/Eleven1.png" group-title="Portugal" tvg-id="PT | DAZN 1", Eleven Sport 1
+http://192.168.1.47:6878/ace/manifest.m3u8?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vddFjGL/Eleven2.png" group-title="Portugal" tvg-id="PT | DAZN 2", Eleven Sport 2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wYSjdjR/Eleven3.png" group-title="Portugal" tvg-id="PT | DAZN 3", Eleven Sport 3
+http://192.168.1.47:6878/ace/manifest.m3u8?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4MHd5t/Eleven4.png" group-title="Portugal" tvg-id="PT | DAZN 4", Eleven Sport 4
+http://192.168.1.47:6878/ace/manifest.m3u8?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J5j1qB8/Eleven5.png" group-title="Portugal" tvg-id="PT | DAZN 5", Eleven Sport 5
+http://192.168.1.47:6878/ace/manifest.m3u8?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zF8ZQTF/Eleven6.png" group-title="Portugal" tvg-id="PT | DAZN 6", Eleven Sport 6
+http://192.168.1.47:6878/ace/manifest.m3u8?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
