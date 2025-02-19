@@ -7,7 +7,5 @@ http://192.168.1.47:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b41429
 http://192.168.1.47:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 1080P
 http://192.168.1.47:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 1080 Multiaudio
-http://192.168.1.47:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 1080 MultiAudio
 http://192.168.1.47:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
