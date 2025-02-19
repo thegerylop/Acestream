@@ -5,3 +5,13 @@ http://100.96.233.30:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142
 http://100.96.233.30:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 1080P
 http://100.96.233.30:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 2 HD", M. LaLiga 2 1080
+http://100.96.233.30:6878/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1 1080 Multiaudio
+http://100.96.233.30:6878/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1 720
+http://100.96.233.30:6878/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 1080 Multiaudio
+http://100.96.233.30:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 720
+http://100.96.233.30:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
