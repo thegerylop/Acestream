@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
+http://192.168.1.47:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
