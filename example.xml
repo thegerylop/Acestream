@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-url="http://www.schedulesdirect.org/" source-info-name="Schedules Direct" generator-info-name="XMLTV/$Id: tv_grab_na_dd.in,v 1.70 2008/03/03 15:21:41 rmeden Exp $" generator-info-url="http://www.xmltv.org/">
+  <channel id="LaLiga TV BAR HD">
+    <display-name>LaLiga BAR 1080</display-name>
+    <display-name>1001</display-name>
+    <display-name>1001 Liga BAR 1080</display-name>
+    <icon src="file://C:\Perl\site/share/xmltv/icons/KERA.gif" />
+  </channel>
+  <channel id="I10759.labs.zap2it.com">
+    <display-name>11 KTVT</display-name>
+    <display-name>11 KTVT TX42822:-</display-name>
+    <display-name>11</display-name>
+    <display-name>11 KTVT fcc</display-name>
+    <display-name>KTVT</display-name>
+    <display-name>KTVT</display-name>
+    <display-name>CBS Affiliate</display-name>
+    <icon src="file://C:\Perl\site/share/xmltv/icons/KTVT.gif" />
+  </channel>
+</tv>
