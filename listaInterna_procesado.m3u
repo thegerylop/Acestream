@@ -1,20 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="copa" tvg-id="M+ Super Copa", M+ Super Copa
-http://192.168.1.47:6878/ace/manifest.m3u8?id=76eaa5f815461cac46700b5313b84d363297871b
-#EXTINF:-1 tvg-logo="" group-title="copa" tvg-id="M+ Super Copa_2", M+ Super Copa_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=9fd0ad6591be70c5c31b7659162cf67ae2dff16e
 #EXTINF:-1 tvg-logo="" group-title="copa" tvg-id="M+ Super Copa (SAT)", M+ Super Copa (SAT)
 http://192.168.1.47:6878/ace/manifest.m3u8?id=08bf74b427c432b974712d1d950eacaa513287e5
-#EXTINF:-1 tvg-logo="" group-title="copa" tvg-id="M+ SuperCopa del Rey FHD", M+ SuperCopa del Rey FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=bbd6cd7d0c137aaf2dc6e7c936fd45d7eaea49e2
+#EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1", DAZN F1
+http://192.168.1.47:6878/ace/manifest.m3u8?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+#EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 1080", DAZN F1 1080
+http://192.168.1.47:6878/ace/manifest.m3u8?id=d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
 http://192.168.1.47:6878/ace/manifest.m3u8?id=b2543904857ebc4689f1b6659c09a94c6f661c41
-#EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD (SAT)", DAZN F1 FHD (SAT)
-http://192.168.1.47:6878/ace/manifest.m3u8?id=dea87ce042a085fb892c12d1bf3be428e824237d
+#EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD_2", DAZN F1 FHD_2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=21511645a5f014cb64f85d445482a8a14bba9e62
 #EXTINF:-1 tvg-logo="" group-title="Favorito" tvg-id="Favorito", Favorito
 http://192.168.1.47:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LA LIGA 2 FHD", DAZN LA LIGA 2 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=0a54d530717aa50cb65672a92efa5948286e492c
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 HD
 http://192.168.1.47:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga 2 HD_2", DAZN LaLiga 2 HD_2
@@ -26,15 +22,9 @@ http://192.168.1.47:6878/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa0
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga HD_3", DAZN LaLiga HD_3
 http://192.168.1.47:6878/ace/manifest.m3u8?id=6de4794cd02f88f14354b5996823413a59a1de0f
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga HD_4", DAZN LaLiga HD_4
+http://192.168.1.47:6878/ace/manifest.m3u8?id=dad36d37fa74b94e345bb014d82d820e54fb69d8
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga HD_5", DAZN LaLiga HD_5
 http://192.168.1.47:6878/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LIGA", DAZN LIGA
-http://192.168.1.47:6878/ace/manifest.m3u8?id=a5144874f66a0872fd0b5a484cd426eb7d8eaa26
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LIGA 2 FHD", DAZN LIGA 2 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=4b38a91cc7ca46748fef4743ac0b5d193a701f8c
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LIGA FHD", DAZN LIGA FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=711e971c2c5fafc8a95f4a70ea16c0cb7da955d9
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LIGA FHD (SATT)", DAZN LIGA FHD (SATT)
-http://192.168.1.47:6878/ace/manifest.m3u8?id=b2aaaa6957acd2fac4184cf44821bb27eeb61b70
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DE: Sky Bundesliga", DE: Sky Bundesliga
 http://192.168.1.47:6878/ace/manifest.m3u8?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV BAR HD", LaLiga TV BAR HD
@@ -45,24 +35,10 @@ http://192.168.1.47:6878/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a874
 http://192.168.1.47:6878/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV Hypermotion 3", LaLiga TV Hypermotion 3
 http://192.168.1.47:6878/ace/manifest.m3u8?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV Hypermotion HD", LaLiga TV Hypermotion HD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV Hypermotion HD_2", LaLiga TV Hypermotion HD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga", M+ LaLiga
 http://192.168.1.47:6878/ace/manifest.m3u8?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LALIGA", M+ LALIGA
-http://192.168.1.47:6878/ace/manifest.m3u8?id=7c70daff87373a903d92490ad3dc811723969e08
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga 2 FHD", M+ LaLiga 2 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=96c4350d8548d40574f70c51b1469e32de756c0a
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga 3 FHD", M+ LaLiga 3 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=95fb628a3503375c0f5cbf6522f37227993bafce
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga FHD", M+ LaLiga FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=86541e760681d3f51b4e9f7b4b3997beb38307b0
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga FHD_2", M+ LaLiga FHD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=e954376315de5608543ff24982af6e682e669af2
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga FHD (SAT)", M+ LaLiga FHD (SAT)
-http://192.168.1.47:6878/ace/manifest.m3u8?id=6e7ac91952e5c8f45d38c4b1669221bed4800813
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV 4", M+ LaLiga TV 4
+http://192.168.1.47:6878/ace/manifest.m3u8?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV HD", M+ LaLiga TV HD
 http://192.168.1.47:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV HD_2", M+ LaLiga TV HD_2
@@ -70,46 +46,22 @@ http://192.168.1.47:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV HD_3", M+ LaLiga TV HD_3
 http://192.168.1.47:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV HD_4", M+ LaLiga TV HD_4
+http://192.168.1.47:6878/ace/manifest.m3u8?id=1bc437bce57b4b0450f6d1f8d818b7e97000745e
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV HD_5", M+ LaLiga TV HD_5
 http://192.168.1.47:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ Liga de Campeones", M+ Liga de Campeones
 http://192.168.1.47:6878/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ Liga de Campeones_2", M+ Liga de Campeones_2
 http://192.168.1.47:6878/ace/manifest.m3u8?id=0f0850a62ecdc4f79eec221cbebad01f3e0242bc
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 10 FHD", M+ LIGA DE CAMPEONES 10 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=d702abb3ed56ba7fa35e63daa9f6f14936a75792
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ Liga de Campeones 10", M+ Liga de Campeones 10
+http://192.168.1.47:6878/ace/manifest.m3u8?id=c056f9e180cd7d40963129a17ff54f4ee8259353
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ Liga de Campeones 11", M+ Liga de Campeones 11
 http://192.168.1.47:6878/ace/manifest.m3u8?id=a12a16f74cf12799d4475ae867dc61eb60e1ba2e
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 11 FHD", M+ LIGA DE CAMPEONES 11 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=2a489907edaf1275e2209e5a4fed9c19e6798463
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 12 FHD", M+ LIGA DE CAMPEONES 12 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=c098f002d0d35baca4baf597d3ef567d68ee48c8
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 13 FHD", M+ LIGA DE CAMPEONES 13 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=548ea66bb8e4663a5bf0d2dede22d353f3994787
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 2 FHD", M+ LIGA DE CAMPEONES 2 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=c330d19436e5b56b29f3de4c1df5b5eb732d247d
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 2 FHD_2", M+ LIGA DE CAMPEONES 2 FHD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=a6592d8203205ed4156d557cf7e89cd171a0e3cd
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 2 FHD_3", M+ LIGA DE CAMPEONES 2 FHD_3
-http://192.168.1.47:6878/ace/manifest.m3u8?id=4b445a510e487162cb4e8dd76db4f205b61d5584
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 3 FHD", M+ LIGA DE CAMPEONES 3 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=d6b1a6748c90eff83989514bf6bf010c3b87d470
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 3 FHD_2", M+ LIGA DE CAMPEONES 3 FHD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=a2737f92238d98040d7c6a1866156bf31c5677dd
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 4 FHD", M+ LIGA DE CAMPEONES 4 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=60b2c4ca8dc8f29db0ef7d94c447e092e8b022b2
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 5 FHD", M+ LIGA DE CAMPEONES 5 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=7e0adcb774f48929ce0581bc8b7b327d0bacc1cb
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 6 FHD", M+ LIGA DE CAMPEONES 6 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=4c30a8d91113a5844f4e169bf99a99e1cb8aa309
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 7 FHD", M+ LIGA DE CAMPEONES 7 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=1bedb890da11e72038914a13187ea50929c9aec0
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES 9 FHD", M+ LIGA DE CAMPEONES 9 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=38c6320b298c093badbc10fd130dde90d64bc092
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES FHD", M+ LIGA DE CAMPEONES FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=87fbb0ddc5920b1953741b99c63f0fd0e5f94814
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES FHD_2", M+ LIGA DE CAMPEONES FHD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=94054b2e5e330bfdec93b63db5bbe42d15c3fd88
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LIGA DE CAMPEONES FHD (SAT)", M+ LIGA DE CAMPEONES FHD (SAT)
-http://192.168.1.47:6878/ace/manifest.m3u8?id=f51ea08b180c4d916a9cb9f33049cd9644284641
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ Liga de Campeones 12", M+ Liga de Campeones 12
+http://192.168.1.47:6878/ace/manifest.m3u8?id=df7d145fcaf0566db4098d2f10236185d92bc9fd
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ Liga de Campeones 13", M+ Liga de Campeones 13
+http://192.168.1.47:6878/ace/manifest.m3u8?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones HD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ Liga de Campeones HD_2", M+ Liga de Campeones HD_2
 http://192.168.1.47:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
