@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 HD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga 2 HD_2", DAZN LaLiga 2 HD_2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga HD_2", DAZN LaLiga HD_2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=ec29289b0b14756e686c03a501bae1efa05be70c
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga HD_3", DAZN LaLiga HD_3
+http://192.168.1.47:6878/ace/manifest.m3u8?id=6de4794cd02f88f14354b5996823413a59a1de0f
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga HD_4", DAZN LaLiga HD_4
+http://192.168.1.47:6878/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DE: Sky Bundesliga", DE: Sky Bundesliga
+http://192.168.1.47:6878/ace/manifest.m3u8?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV BAR HD", LaLiga TV BAR HD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga", M+ LaLiga
+http://192.168.1.47:6878/ace/manifest.m3u8?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV 2 HD", M+ LaLiga TV 2 HD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV HD", M+ LaLiga TV HD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV HD_2", M+ LaLiga TV HD_2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV HD_3", M+ LaLiga TV HD_3
+http://192.168.1.47:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV HD_4", M+ LaLiga TV HD_4
+http://192.168.1.47:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga UHD", M+ LaLiga UHD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
