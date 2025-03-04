@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1", DAZN F1
+http://192.168.1.47:6878/ace/manifest.m3u8?id=073d33a5e5270399154bb251fcc95f99c0741264
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 1080 ESPN", DAZN F1 1080 ESPN
 http://192.168.1.47:6878/ace/manifest.m3u8?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
-#EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 720 ESPN", DAZN F1 720 ESPN
-http://192.168.1.47:6878/ace/manifest.m3u8?id=268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
 http://192.168.1.47:6878/ace/manifest.m3u8?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD_2", DAZN F1 FHD_2
