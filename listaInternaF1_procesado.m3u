@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1", DAZN F1
+http://192.168.1.47:6878/ace/manifest.m3u8?id=6994af284ecab2996f9b140ef44b8da8bfee0006
+#EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 4k", DAZN F1 4k
+http://192.168.1.47:6878/ace/manifest.m3u8?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=9f04b67904bf5ec6782ab34e8105bca264c10b62
+http://192.168.1.47:6878/ace/manifest.m3u8?id=515efd8115482bda8d92aa6df9a882a5e5797494
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD", DAZN F1 HD
 http://192.168.1.47:6878/ace/manifest.m3u8?id=d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD_2", DAZN F1 HD_2
@@ -8,10 +12,4 @@ http://192.168.1.47:6878/ace/manifest.m3u8?id=2c6e4c897661e6b0257bfe931b66d20b2e
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD_3", DAZN F1 HD_3
 http://192.168.1.47:6878/ace/manifest.m3u8?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD_4", DAZN F1 HD_4
-http://192.168.1.47:6878/ace/manifest.m3u8?id=c367738691c63896679e523d4c1c7933729acc7b
-#EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD_5", DAZN F1 HD_5
-http://192.168.1.47:6878/ace/manifest.m3u8?id=4f1d222c600e66ef4990b3d7ea13bfa53f7bfea1
-#EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD_6", DAZN F1 HD_6
-http://192.168.1.47:6878/ace/manifest.m3u8?id=5d8613b5fde87f366bb5e41ac8011007a4c6bd3c
-#EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD_7", DAZN F1 HD_7
-http://192.168.1.47:6878/ace/manifest.m3u8?id=751aa1f2429dfb9484b67a3ede00d859c6212994
+http://192.168.1.47:6878/ace/manifest.m3u8?id=268289e7a3c5209960b53b4d43c8c65fab294b85
