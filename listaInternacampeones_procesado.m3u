@@ -1,57 +1,51 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ Campeones", M+ Campeones
-http://192.168.1.47:6878/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ Campeones_2", M+ Campeones_2
 http://192.168.1.47:6878/ace/manifest.m3u8?id=0f0850a62ecdc4f79eec221cbebad01f3e0242bc
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 10 FHD", M+ CAMPEONES 10 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=acd1991f35379b01cb09b6a7cc4390c34c6e2bf9
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 11 FHD", M+ CAMPEONES 11 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=d8550602603193bfa75bf61587dbbb9b3a9a00c7
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 12 FHD", M+ CAMPEONES 12 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=d697e4effe3525a0bc64a5c141d766e9ee6c11a3
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 13 FHD", M+ CAMPEONES 13 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=43515b0f66e642bfcd800298006911658e208b49
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 2 FHD", M+ CAMPEONES 2 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=deb8972491e3817ba2335662d7855d2c2c05a900
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 2 FHD_2", M+ CAMPEONES 2 FHD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=bd6fa847d9eb4e6fa44b68da1304bf8684ef8acb
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 2 FHD_3", M+ CAMPEONES 2 FHD_3
-http://192.168.1.47:6878/ace/manifest.m3u8?id=0adc3b525508b4a74ce65685870894a77401afb7
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 2 FHD_4", M+ CAMPEONES 2 FHD_4
-http://192.168.1.47:6878/ace/manifest.m3u8?id=f7fa79fdad436e969a82389a062a74564e91b10e
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 3 FHD", M+ CAMPEONES 3 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=8e65f92af1de567f0af83562c5a14a3db6dc8ac8
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 3 FHD_2", M+ CAMPEONES 3 FHD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=4d754e0b6b583d01668de8544c43cad6a1b253da
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 3 FHD_3", M+ CAMPEONES 3 FHD_3
-http://192.168.1.47:6878/ace/manifest.m3u8?id=509e91774b5b2d0af80883c8d4217c3b53235231
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 4 FHD", M+ CAMPEONES 4 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 5 FHD", M+ CAMPEONES 5 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=47ab133c0bd7c9e6eb6f11661d33101a9d3bfce3
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 5 FHD_2", M+ CAMPEONES 5 FHD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=7c3791bfaf9b4b215cc63fa2d61902f9bf3da7ff
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 6 FHD", M+ CAMPEONES 6 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=c1de133576bc8b82db0891d850f5e2d448dac9d6
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 7 FHD", M+ CAMPEONES 7 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=67492877ee4314e8e88c49eaedc82c556750ae9f
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 8 FHD", M+ CAMPEONES 8 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=7dd235ecd152c3d303f29aeaa0728d5c8b588f7c
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES 9 FHD", M+ CAMPEONES 9 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=a792ff171d110e6d890cb1b5db9d6507d1f292b7
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES FHD", M+ CAMPEONES FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=fe521a6e9d2ff31616125fa75bac6b0deb52b6b9
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES FHD_2", M+ CAMPEONES FHD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=05057e832dd1530c7d5e8b0857fee6826243a243
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ CAMPEONES FHD (SAT)", M+ CAMPEONES FHD (SAT)
-http://192.168.1.47:6878/ace/manifest.m3u8?id=840f68a0dc6e27c2927a16b4d42b9401ac50270b
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones HD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M+ Liga de Campeones HD_2", M+ Liga de Campeones HD_2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 #EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 1080 MultiAudio", M.L. Campeones 1080 MultiAudio
 http://192.168.1.47:6878/ace/manifest.m3u8?id=0a26e20f39845e928411e09a124374fccb6e1478
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 1080 MultiAudio_2", M.L. Campeones 1080 MultiAudio_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=775abd8697715c48a357906d40734ccd2a10513c
 #EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 2 1080", M.L. Campeones 2 1080
 http://192.168.1.47:6878/ace/manifest.m3u8?id=c070cdb701fc46bb79d17568d99fc64620443d63
 #EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 2 720", M.L. Campeones 2 720
 http://192.168.1.47:6878/ace/manifest.m3u8?id=abdf9058786a48623d0de51a3adb414ae10b6e72
-#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 720", M.L. Campeones 720
-http://192.168.1.47:6878/ace/manifest.m3u8?id=8edb264520569b2280c5e86b2dc734e120032903
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 2 FHD", M.L. Campeones 2 FHD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 2 FHD_2", M.L. Campeones 2 FHD_2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 2 FHD_3", M.L. Campeones 2 FHD_3
+http://192.168.1.47:6878/ace/manifest.m3u8?id=3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 2 FHD_4", M.L. Campeones 2 FHD_4
+http://192.168.1.47:6878/ace/manifest.m3u8?id=4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 3 1080", M.L. Campeones 3 1080
+http://192.168.1.47:6878/ace/manifest.m3u8?id=3618edda333dad5374ac2c801f5f14483934b97d
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 3 720", M.L. Campeones 3 720
+http://192.168.1.47:6878/ace/manifest.m3u8?id=0b348cc1ae499e810729661878764a0fab88ab69
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 3 FHD", M.L. Campeones 3 FHD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 3 FHD_2", M.L. Campeones 3 FHD_2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=4fc2fce0d019bdb622164bba3cff84c120fb9243
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 3 FHD_3", M.L. Campeones 3 FHD_3
+http://192.168.1.47:6878/ace/manifest.m3u8?id=15127320406cf6a072c4f485f31c841d7d3e62f3
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 4 FHD", M.L. Campeones 4 FHD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 4 FHD_2", M.L. Campeones 4 FHD_2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=f1219582a3059e7fff2db22e69475c45cbc84356
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 4K", M.L. Campeones 4K
+http://192.168.1.47:6878/ace/manifest.m3u8?id=7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones 4K_2", M.L. Campeones 4K_2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=152169ce99e1fd27f2249c18384a121079cdef29
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones FHD", M.L. Campeones FHD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones FHD_2", M.L. Campeones FHD_2
+http://192.168.1.47:6878/ace/manifest.m3u8?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones FHD_3", M.L. Campeones FHD_3
+http://192.168.1.47:6878/ace/manifest.m3u8?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones FHD_4", M.L. Campeones FHD_4
+http://192.168.1.47:6878/ace/manifest.m3u8?id=6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones FHD_5", M.L. Campeones FHD_5
+http://192.168.1.47:6878/ace/manifest.m3u8?id=a9025d4e168764248d33129c30940502cea0e1c2
+#EXTINF:-1 tvg-logo="" group-title="campeones" tvg-id="M.L. Campeones FHD_6", M.L. Campeones FHD_6
+http://192.168.1.47:6878/ace/manifest.m3u8?id=47223e64a576c21bd61e818a42397a753d34fba5
