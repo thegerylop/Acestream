@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 HD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
+http://192.168.1.15:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga 2 HD_2", DAZN LaLiga 2 HD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
+http://192.168.1.15:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
 http://192.168.1.47:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga HD_2", DAZN LaLiga HD_2
