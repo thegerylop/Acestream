@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 HD
-http://192.168.1.15:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
+http://192.168.1.47:6878/ace/manifest.m3u8?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga 2 HD_2", DAZN LaLiga 2 HD_2
-http://192.168.1.15:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
+http://192.168.1.47:6878/ace/manifest.m3u8?id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
 http://192.168.1.47:6878/ace/manifest.m3u8?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DAZN LaLiga HD_2", DAZN LaLiga HD_2
@@ -14,17 +14,15 @@ http://192.168.1.47:6878/ace/manifest.m3u8?id=8c8c1e047a1c5ed213ba74722a5345dc55
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="DE: Sky Bundesliga", DE: Sky Bundesliga
 http://192.168.1.47:6878/ace/manifest.m3u8?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV BAR HD", LaLiga TV BAR HD
+http://192.168.1.47:6878/ace/manifest.m3u8?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV BAR HD_2", LaLiga TV BAR HD_2
 http://192.168.1.47:6878/ace/manifest.m3u8?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV Hypermotion 2", LaLiga TV Hypermotion 2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV Hypermotion 2_2", LaLiga TV Hypermotion 2_2
 http://192.168.1.47:6878/ace/manifest.m3u8?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV Hypermotion 3", LaLiga TV Hypermotion 3
 http://192.168.1.47:6878/ace/manifest.m3u8?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV Hypermotion HD", LaLiga TV Hypermotion HD
 http://192.168.1.47:6878/ace/manifest.m3u8?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
-#EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="LaLiga TV Hypermotion HD_2", LaLiga TV Hypermotion HD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV 2 HD", M+ LaLiga TV 2 HD
 http://192.168.1.47:6878/ace/manifest.m3u8?id=83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF:-1 tvg-logo="" group-title="liga" tvg-id="M+ LaLiga TV 2 HD_2", M+ LaLiga TV 2 HD_2
