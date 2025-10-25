@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 4k", DAZN F1 4k
-http://192.168.1.47:6878/ace/manifest.m3u8?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://192.168.0.33:6878/ace/manifest.m3u8?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=6422e8bc34282871634c81947be093c04ad1bb29
+http://192.168.0.33:6878/ace/manifest.m3u8?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD_2", DAZN F1 FHD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
+http://192.168.0.33:6878/ace/manifest.m3u8?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD_3", DAZN F1 FHD_3
-http://192.168.1.47:6878/ace/manifest.m3u8?id=515efd8115482bda8d92aa6df9a882a5e5797494
+http://192.168.0.33:6878/ace/manifest.m3u8?id=515efd8115482bda8d92aa6df9a882a5e5797494
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD_4", DAZN F1 FHD_4
-http://192.168.1.47:6878/ace/manifest.m3u8?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
+http://192.168.0.33:6878/ace/manifest.m3u8?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD", DAZN F1 HD
-http://192.168.1.47:6878/ace/manifest.m3u8?id=d6281d4e6310269b416180442a470d23a4a99dc9
+http://192.168.0.33:6878/ace/manifest.m3u8?id=d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD_2", DAZN F1 HD_2
-http://192.168.1.47:6878/ace/manifest.m3u8?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+http://192.168.0.33:6878/ace/manifest.m3u8?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD_3", DAZN F1 HD_3
-http://192.168.1.47:6878/ace/manifest.m3u8?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
+http://192.168.0.33:6878/ace/manifest.m3u8?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD_4", DAZN F1 HD_4
-http://192.168.1.47:6878/ace/manifest.m3u8?id=268289e7a3c5209960b53b4d43c8c65fab294b85
+http://192.168.0.33:6878/ace/manifest.m3u8?id=268289e7a3c5209960b53b4d43c8c65fab294b85
