@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 4k", DAZN F1 4k
-http://192.168.0.33:6878/ace/manifest.m3u8?id=7e1523ccfaac00800e67bd0b97c428810104b2b8
+http://192.168.0.33:6878/ace/manifest.m3u8?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD", DAZN F1 FHD
 http://192.168.0.33:6878/ace/manifest.m3u8?id=6422e8bc34282871634c81947be093c04ad1bb29
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD_2", DAZN F1 FHD_2
