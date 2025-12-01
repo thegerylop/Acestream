@@ -10,7 +10,7 @@ http://192.168.0.33:6878/ace/manifest.m3u8?id=515efd8115482bda8d92aa6df9a882a5e5
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 FHD_4", DAZN F1 FHD_4
 http://192.168.0.33:6878/ace/manifest.m3u8?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD", DAZN F1 HD
-http://192.168.0.33:6878/ace/manifest.m3u8?id=d6281d4e6310269b416180442a470d23a4a99dc92
+http://192.168.0.33:6878/ace/manifest.m3u8?id=d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD_2", DAZN F1 HD_2
 http://192.168.0.33:6878/ace/manifest.m3u8?id=2c6e4c897661e6b0257bfe931b66d20b2ec763b6
 #EXTINF:-1 tvg-logo="" group-title="DAZN F1" tvg-id="DAZN F1 HD_3", DAZN F1 HD_3
